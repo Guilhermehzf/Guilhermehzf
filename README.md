@@ -1,4 +1,3 @@
-
 ### <b>|Olá eu sou Guilherme Fernandes ✌|</b>
 [![Blog](https://img.shields.io/website?label=Meucurriculo.com&style=for-the-badge&url=https://sujeitoprogramador.com )](https://teste.zoser.works/index.php/meu-curriculo1/)
 [![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/guilhermehzf/)
@@ -17,3 +16,10 @@
   <img aling="center" alt="Ubunto"src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"/>
   <img aling="center" alt="MariaDB"src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white"/>
 </div>
+
+## <b>||Minhas IDS||</b>
+<div style="display: inline_block"><br/>
+  <img aling="center" alt="pycharm"src="https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white"/>
+  <img aling="center" alt="vscode"src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
+</div>
+
