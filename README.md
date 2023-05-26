@@ -1,5 +1,5 @@
 ### <b>|Olá eu sou Guilherme Fernandes ✌|</b>
-[![Blog](https://img.shields.io/website?label=Meucurriculo.com&style=for-the-badge&url=https://sujeitoprogramador.com )](https://teste.zoser.works/index.php/meu-curriculo1/)
+[![Blog](https://img.shields.io/website?label=Meucurriculo.com&style=for-the-badge&url=https://sujeitoprogramador.com )](https://ceub.zoser.works/index.php/meu-curriculo1/)
 [![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/guilhermehzf/)
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guilherme-henrique-fernandes-3593b5244/)
 
