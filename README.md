@@ -1,10 +1,10 @@
 <div style="display:inline_block">
     <img src="https://media1.giphy.com/media/3oEduYuCeCqUHRPUbu/giphy.gif" width="15%">
-    <<img src="https://media.giphy.com/media/h6liiBnHX1d1ymoctK/giphy.gif" width="20%">
+    <img src="https://media.giphy.com/media/h6liiBnHX1d1ymoctK/giphy.gif" width="20%">
     <img src=https://media.giphy.com/media/1BGRBkRdQe995A3JxB/giphy.gif width="13%">
 </div>
 
-### <b>|Olá, eu sou Guilherme Fernandes 🎃|</b>
+### <b>|🎃 Olá, eu sou Guilherme Fernandes 🎃|</b>
 [![Blog](https://img.shields.io/website?label=Meucurriculo.com&style=for-the-badge&url=https://sujeitoprogramador.com )](https://ceub.zoser.works/index.php/curriculo/)
 [![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/guilhermehzf/)
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guilherme-henrique-fernandes-3593b5244/)
