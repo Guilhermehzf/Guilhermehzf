@@ -1,4 +1,4 @@
-### <b>|Olá, eu sou Guilherme Fernandes 🎃|</b>
+### <b>|Olá, eu sou Guilherme Fernandes 🎃|</b><iframe src="https://giphy.com/embed/3oEduYuCeCqUHRPUbu" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/stickers/hiart-app-sticker-hi-art-3oEduYuCeCqUHRPUbu">via GIPHY</a></p>
 [![Blog](https://img.shields.io/website?label=Meucurriculo.com&style=for-the-badge&url=https://sujeitoprogramador.com )](https://ceub.zoser.works/index.php/curriculo/)
 [![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/guilhermehzf/)
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guilherme-henrique-fernandes-3593b5244/)
