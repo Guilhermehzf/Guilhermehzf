@@ -1,11 +1,11 @@
-### <b>|Olá eu sou Guilherme Fernandes ✌|</b>
+### <b>|Olá, eu sou Guilherme Fernandes 🎃|</b>
 [![Blog](https://img.shields.io/website?label=Meucurriculo.com&style=for-the-badge&url=https://sujeitoprogramador.com )](https://ceub.zoser.works/index.php/curriculo/)
 [![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/guilhermehzf/)
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guilherme-henrique-fernandes-3593b5244/)
 
-![Guilherme GitHub stats](https://github-readme-stats.vercel.app/api?username=Guilhermehzf&show_icons=true&theme=tokyonightmerko)
+![Guilherme GitHub stats](https://github-readme-stats.vercel.app/api?username=Guilhermehzf&show_icons=true&theme=nightowl)
 
-## <b>||Meus conhecimentos||</b>
+## <b>||Meus conhecimentos misteriosos||</b>
 
 <div style="display: inline_block"><br/>
   <img aling="center" alt="html5"src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
@@ -17,10 +17,9 @@
   <img aling="center" alt="MariaDB"src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white"/>
 </div>
 
-## <b>||Minhas IDS||</b>
+## <b>||Minhas IDS mágicas||</b>
 <div style="display: inline_block"><br/>
   <img aling="center" alt="pycharm"src="https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white"/>
   <img aling="center" alt="vscode"src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
   
 </div>
-
