@@ -1,7 +1,7 @@
 <div style="display:inline_block">
     <img src="https://media1.giphy.com/media/3oEduYuCeCqUHRPUbu/giphy.gif" width="15%">
     <img src="https://media.giphy.com/media/h6liiBnHX1d1ymoctK/giphy.gif" width="20%">
-    <img src="https://media.giphy.com/media/1BGRBkRdQe995A3JxB/giphy.gif" width="20%">
+    <img src="https://media.giphy.com/media/1BGRBkRdQe995A3JxB/giphy.gif" width="13%">
 </div>
 
 ### <b>|🎃 Olá, eu sou Guilherme Fernandes 🎃|</b>
