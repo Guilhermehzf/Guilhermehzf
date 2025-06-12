@@ -16,7 +16,7 @@
 <div style="display: inline_block; vertical-align: middle;"><br/>
   <img alt="html5" src="https://img.shields.io/badge/HTML5-FF99B0?style=for-the-badge&logo=html5&logoColor=white"/>
   <img alt="python" src="https://img.shields.io/badge/Python-FF99B0?style=for-the-badge&logo=python&logoColor=white"/>
-  <img alt="JS" src="https://img.shields.io/badge/JavaScript-FF99B0?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img alt="JS" src="https://img.shields.io/badge/JavaScript-FF99B0?style=for-the-badge&logo=javascript&logoColor=white"/>
   <img alt="C" src="https://img.shields.io/badge/C-FF99B0?style=for-the-badge&logo=c&logoColor=white"/>
   <img alt="Debian" src="https://img.shields.io/badge/Debian-FF99B0?style=for-the-badge&logo=debian&logoColor=white"/>
   <img alt="Ubunto" src="https://img.shields.io/badge/Ubuntu-FF99B0?style=for-the-badge&logo=ubuntu&logoColor=white"/>
