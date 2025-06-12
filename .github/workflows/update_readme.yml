@@ -1,38 +1,34 @@
 name: Atualizar Perfil README Automaticamente
 
 on:
-  # Roda todo dia à meia-noite (00:00) em horário UTC
   schedule:
     - cron: '0 0 * * *'
   
-  # Permite que você rode manualmente pela aba Actions do GitHub para testar
   workflow_dispatch:
 
 jobs:
   update-readme:
     runs-on: ubuntu-latest
+    
+    permissions:      # <--- ADICIONE ESTE BLOCO
+      contents: write # <--- Permissão para escrever no repositório
+      
     steps:
-      # 1. Clona o seu repositório para a máquina virtual do Actions
       - name: Checkout do repositório
         uses: actions/checkout@v4
 
-      # 2. Configura o ambiente Python
       - name: Configurar Python
         uses: actions/setup-python@v5
         with:
           python-version: '3.10'
 
-      # 3. Instala as bibliotecas Python necessárias
       - name: Instalar dependências
         run: |
           python -m pip install --upgrade pip
           pip install -r requirements.txt
       
-      # 4. Roda o script de atualização
       - name: Executar o script de atualização do README
         run: python ./update_readme.py
         env:
-          # O GITHUB_TOKEN é um segredo especial fornecido pelo GitHub Actions
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          # A variável GITHUB_REPOSITORY também é fornecida automaticamente
           GITHUB_REPOSITORY: ${{ github.repository }}
